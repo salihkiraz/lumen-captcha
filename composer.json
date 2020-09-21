@@ -1,5 +1,5 @@
 {
-    "name": "aishan/lumen-captcha",
+    "name": "salihkiraz/lumen-captcha",
     "description": "captcha for lumen",
     "keywords": ["lumen Captcha", "lumen Security", "Captcha for api"],
     "type": "library",
